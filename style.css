@@ -1,0 +1,46 @@
+.body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0 1rem;
+     line-height: 1.6;
+    }
+
+    .nav{
+        background: #333;
+        padding: 1rem 0;
+        text-align: none;
+    }
+    .nav a{
+        color: #fff;
+        margin: 0 1rem;
+        text-decoration: none;
+    }
+
+    .nav a:hover{
+        text-decoration: underline;
+    }
+
+    .main{
+        padding: 2rem 0;
+    }
+
+    .h1{
+        font-size: 2 rem;
+        margin-bottom: 1rem;
+    }
+
+    .section{
+        margin: 2rem0;
+    }
+
+    .contact-form label{
+        display: block;
+        margin-bottom: o.5rem;
+    }
+
+    .footer{
+        border-top: 1px solid #ccc;
+        padding: 1rem o;
+        text-align: center;
+        font-size: 0.9rem;
+    }
